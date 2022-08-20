@@ -2,6 +2,7 @@
 
 A new Flutter project.
 
+<img src ="asset/images/layoutScreen.jpg.png">
 
 ## Getting Started
 
