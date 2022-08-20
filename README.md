@@ -1,6 +1,7 @@
 # flutter_layout
 
 A new Flutter project.
+asset/images/layoutScreen.jpg.png
 
 ## Getting Started
 
